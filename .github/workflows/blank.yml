@@ -44,4 +44,4 @@ jobs:
           pwd
           ls
       - name: Print Linux info
-        run: cat /etc/lsb_release
+        run: cat /etc/lsb-release
